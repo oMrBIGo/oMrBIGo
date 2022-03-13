@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrbigo&label=Profile%20views&color=0e75b6&style=flat" alt="omrbigo" /> </p>
 
-- 🔭 I’m currently working on [E-commerce Android App](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w/videos)
+- 🔭 I’m currently working on E-commerce Android App
 
 - 🌱 I’m currently learning **Java**
 
