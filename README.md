@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nathit.panrod1@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny🤣**
 
 ### Connect with me:
 <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://web.facebook.com/nathit.big)</a> 
