@@ -34,7 +34,6 @@
 * โครงงานนี้เป็นส่วนหนึ่งของการศึกษาตามหลักสูตรเทคโนโลยีบัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศและธุรกิจดิจิทัล คณะบริหารธุรกิจ มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ
 
 * Adolescent depression game therapy application using Tetris games to treat depression. It will be a game to solve problems, arrange the falling blocks in a row. It can help treat depression. Once the Tetris game is over, you can take an assessment to see how your symptoms are. and can also create a consultation to consult with a doctor or joint user as well
-
 * This project is part of the study in the Bachelor of Technology program.
 Information Technology and Digital Business Faculty of Business Administration
 Rajamangala University of Technology Krungthep
