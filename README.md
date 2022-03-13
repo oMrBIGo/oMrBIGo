@@ -35,6 +35,29 @@
 
 <br>
 
+---
+
+## <p align="center">Tutorial</p>
+
+* Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial]
+
+[<img src="https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/275533741_112556981377505_4673424729869107656_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGYnA4Pn90weoOfTcqnDWELWCfH33BluZVYJ8ffcGW5lZBCMcDvSBFKhQKIOmZhcYOc1K-vQOsvCDD6kQwZ3dqf&_nc_ohc=faDIhi80EtAAX_dERbz&_nc_zt=23&_nc_ht=scontent.fbkk9-2.fna&oh=00_AT-mSAwLlaBpSFrbIFIYw5TDancDl3lX5Q9Fq1xEAHZpqw&oe=6232A5BD">](https://youtu.be/UjWdFvOW2Lw)
+
+---
+
+* Android Studio [Firebase] - เข้าสู่ระบบด้วย Google (SignInWithGoogle) [XML] - Part 1 [Tutorial] 
+
+[<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/275408027_110814111551792_1914338441781769007_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEh5b9zmsQb3PP4dxp6d0HENgGzBboazdw2AbMFuhrN3CnKYKByhF9Y6-q3CLQxqQmqycTE5r8Y9w-Op_RJFz45&_nc_ohc=hRW9a1ENnlMAX9csmCS&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&oh=00_AT9_9Rysn43ZZF5EDc6nxZy0q_1HOJZBu-eWlErtl3agRg&oe=6232495D">](https://youtu.be/n5xjO8VWCGQ)
+
+---
+
+* Android Studio [Firebase] - ออกแบบหน้าระบบสมัครสมาชิกและเข้าสู่ระบบ [DESGIN XD] - Part 1 [Tutorial]
+
+[<img src="https://scontent.fbkk9-3.fna.fbcdn.net/v/t39.30808-6/275726285_112897164676820_7341708857865745964_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGANGzJc2qf8nCRK0rL3a2PK4K75UDTwyIrgrvlQNPDIqVZBTheDrke61e9GZsIbsouwtVzD1UXYT1HCGRn8zzx&_nc_ohc=V5CnhyWQyZMAX-hhU6u&tn=4U83sZGT_WqXL8ZX&_nc_zt=23&_nc_ht=scontent.fbkk9-3.fna&oh=00_AT9RSgXTJYk-rpxUVkf1vCtCn7GJfJZ_NHGLh0zl-TdtSw&oe=6232F9A9">](https://youtu.be/n5xjO8VWCGQ)
+
+<br>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
