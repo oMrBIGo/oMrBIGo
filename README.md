@@ -28,9 +28,9 @@
 
 ## <p align="center">Projects</p>
 
-[<img src="https://play-lh.googleusercontent.com/z3HNvCsdNauIoOGTYj7fj1msiv87xAGBShLVvBBOFN4BqyYtyd500PTKsiFoTpdmTaY=s180-rw">]()
+[<img src="https://play-lh.googleusercontent.com/XaAwRv6Duf9VR8YqaImypQu6SfVi5-HlRxnDGSyvQPzwfm-c-2DGu-iu2nMiOVbuqjY=s180-rw">]()
 #### 1. เกมบำบัดภาวะซึมเศร้า - Depression Therapy Game [Android, Java, Firebase]
-* Play Store -> [เกมบำบัดภาวะซึมเศร้า](https://play.google.com/store/apps/details?id=com.depressiongame)
+* Play Store -> [เกมบำบัดภาวะซึมเศร้า](https://play.google.com/store/apps/details?id=com.depressiontherapygame)
 * แอปพลิเคชันเกมบำบัดภาวะซึมเศร้าในวัยรุ่น ใช้เกมเททริสในการบำบัดภาวะซึมเศร้า จะเป็นเกมที่ต้องแก้ปัญหาจัดเรียงตัวบล็อกที่หล่นจัดเรียงให้เป็นแถวสามารถช่วยบำบัดอาการซึมเศร้าได้ เมื่อเล่นเกมเททริสเสร็จแล้ว สามารถทำแบบประเมินเพื่อดูอาการซึมเศร้าว่าอยู่ระดับไหน และยังสามารถสร้างคำปรึกษา เพื่อปรึกษากับแพทย์หรือผู้ใช้งานด้วยกันได้อีกด้วย
 * โครงงานนี้เป็นส่วนหนึ่งของการศึกษาตามหลักสูตรเทคโนโลยีบัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศและธุรกิจดิจิทัล คณะบริหารธุรกิจ มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ
 
