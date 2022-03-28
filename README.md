@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">สวัสดีครับ 👋, ผม นธิตย์ ปานรอด (ชื่อเล่น บิ๊ก)</h1>
-<h3 align="center">เป็นคนที่ชอบและหลงไหลในการพัฒนา Android App และชอบแบ่งปันความรู้ให้กับคนที่มีความสนใจเกี่ยวกับการพัฒนาแอปพลิเคชัน ผมมีช่อง Youtube ที่จะสอนเนื้อหาการพัฒนาแอพฟรี สำหรับใครที่มีความสนใจต้องการเรียนรู้หรือฝึกพัฒนา Android App สามารถติดตามได้ที่ https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w </h3>
+<h3 align="center">เป็นคนที่ชอบและหลงไหลในการพัฒนา Android App ครับ </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Android, Firebase**
-
-- 👨‍💻 All of my projects are available at [Nathit Channel](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **nathit.panrod1@gmail.com**
 
@@ -38,28 +36,6 @@
 * This project is part of the study in the Bachelor of Technology program.
 Information Technology and Digital Business Faculty of Business Administration
 Rajamangala University of Technology Krungthep
-<br>
-
----
-
-## <p align="center">Tutorial</p>
-
-* Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial]
-
-[<img src="https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/275533741_112556981377505_4673424729869107656_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGYnA4Pn90weoOfTcqnDWELWCfH33BluZVYJ8ffcGW5lZBCMcDvSBFKhQKIOmZhcYOc1K-vQOsvCDD6kQwZ3dqf&_nc_ohc=faDIhi80EtAAX_dERbz&_nc_zt=23&_nc_ht=scontent.fbkk9-2.fna&oh=00_AT-mSAwLlaBpSFrbIFIYw5TDancDl3lX5Q9Fq1xEAHZpqw&oe=6232A5BD">](https://youtu.be/UjWdFvOW2Lw)
-
----
-
-* Android Studio [Firebase] - เข้าสู่ระบบด้วย Google (SignInWithGoogle) [XML] - Part 1 [Tutorial] 
-
-[<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/275408027_110814111551792_1914338441781769007_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEh5b9zmsQb3PP4dxp6d0HENgGzBboazdw2AbMFuhrN3CnKYKByhF9Y6-q3CLQxqQmqycTE5r8Y9w-Op_RJFz45&_nc_ohc=hRW9a1ENnlMAX9csmCS&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&oh=00_AT9_9Rysn43ZZF5EDc6nxZy0q_1HOJZBu-eWlErtl3agRg&oe=6232495D">](https://youtu.be/n5xjO8VWCGQ)
-
----
-
-* Android Studio [Firebase] - ออกแบบหน้าระบบสมัครสมาชิกและเข้าสู่ระบบ [DESGIN XD] - Part 1 [Tutorial]
-
-[<img src="https://scontent.fbkk9-3.fna.fbcdn.net/v/t39.30808-6/275726285_112897164676820_7341708857865745964_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGANGzJc2qf8nCRK0rL3a2PK4K75UDTwyIrgrvlQNPDIqVZBTheDrke61e9GZsIbsouwtVzD1UXYT1HCGRn8zzx&_nc_ohc=V5CnhyWQyZMAX-hhU6u&tn=4U83sZGT_WqXL8ZX&_nc_zt=23&_nc_ht=scontent.fbkk9-3.fna&oh=00_AT9RSgXTJYk-rpxUVkf1vCtCn7GJfJZ_NHGLh0zl-TdtSw&oe=6232F9A9">](https://youtu.be/n5xjO8VWCGQ)
-
 <br>
 
 ---
