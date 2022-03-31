@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">สวัสดีครับ 👋, ผม นธิตย์ ปานรอด (ชื่อเล่น บิ๊ก)</h1>
-<h3 align="center">เป็นคนที่ชอบและหลงไหลในการพัฒนา Android App ครับ </h3>
+<h3 align="center">เป็นคนที่ชอบและหลงไหลในการพัฒนา Android App และชอบแบ่งปันความรู้ให้กับคนที่มีความสนใจเกี่ยวกับการพัฒนาแอปพลิเคชัน ผมมีช่อง Youtube ที่จะสอนเนื้อหาการพัฒนาแอพฟรี สำหรับใครที่มีความสนใจต้องการเรียนรู้หรือฝึกพัฒนา Android App สามารถติดตามได้ที่ https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -21,6 +21,10 @@
 <a>[<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)</a>
 <a>[<img src="https://img.shields.io/badge/facebook-fanpage-%231877F2.svg?&style=for-the-badge&logo=facebook fanpage&logoColor=white">](https://web.facebook.com/NathitChannel)</a> 
 
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ---
 
@@ -40,8 +44,27 @@ Rajamangala University of Technology Krungthep
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## <p align="center">Tutorial</p>
+
+* Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial]
+
+[<img src="https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/275533741_112556981377505_4673424729869107656_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGYnA4Pn90weoOfTcqnDWELWCfH33BluZVYJ8ffcGW5lZBCMcDvSBFKhQKIOmZhcYOc1K-vQOsvCDD6kQwZ3dqf&_nc_ohc=hLSsO2fuHwAAX-NkBW1&_nc_zt=23&_nc_ht=scontent.fbkk9-2.fna&oh=00_AT8X6AWzRRVa6VgdVErkmcwgQamWc2kjmNeSVgv6-lsj7Q&oe=624A60BD">](https://youtu.be/UjWdFvOW2Lw)
+
+---
+
+* Android Studio [Firebase] - เข้าสู่ระบบด้วย Google (SignInWithGoogle) [XML] - Part 1 [Tutorial] 
+
+[<img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/275408027_110814111551792_1914338441781769007_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEh5b9zmsQb3PP4dxp6d0HENgGzBboazdw2AbMFuhrN3CnKYKByhF9Y6-q3CLQxqQmqycTE5r8Y9w-Op_RJFz45&_nc_ohc=oJMGMlPQlHUAX-xEw_u&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&oh=00_AT-I4OyzhPOlMc8_uoX_RRPtgC5qEVbmms_izkrjur7Jxw&oe=624A045D">](https://youtu.be/n5xjO8VWCGQ)
+
+---
+
+* Android Studio [Firebase] - ออกแบบหน้าระบบสมัครสมาชิกและเข้าสู่ระบบ [DESGIN XD] - Part 1 [Tutorial]
+
+[<img src="https://scontent.fbkk9-3.fna.fbcdn.net/v/t39.30808-6/275726285_112897164676820_7341708857865745964_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGANGzJc2qf8nCRK0rL3a2PK4K75UDTwyIrgrvlQNPDIqVZBTheDrke61e9GZsIbsouwtVzD1UXYT1HCGRn8zzx&_nc_ohc=JPuWu7HxDfYAX-D3uyp&tn=4U83sZGT_WqXL8ZX&_nc_zt=23&_nc_ht=scontent.fbkk9-3.fna&oh=00_AT8Im9HGoW55TkZ5csJRN94C0Wis21-GCIMzrHBeL8y51w&oe=624AB4A9">](https://youtu.be/n5xjO8VWCGQ)
+
+<br>
+
+---
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=omrbigo&&theme=xcode)](https://github.com/oMrBIGo)
 
