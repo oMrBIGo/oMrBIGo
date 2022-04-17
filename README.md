@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-Commerce App (Android Java)**
 
-- 🌱 I’m currently learning **Java , Kotlin**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Android**
 
