@@ -46,6 +46,12 @@ Rajamangala University of Technology Krungthep
 
 ## <p align="center">Tutorial</p>
 
+* [NEW!!] Android Studio (Java) - วิธีการสร้างแอปพลิเคชันข่าวไทย News App [Tutorial]
+
+[<img src="https://www.img.in.th/images/15a5a7504fd5a3795debe0d59a7f47fa.jpg">](https://youtu.be/tifCpoBvffM)
+
+---
+
 * Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial]
 
 [<img src="https://www.img.in.th/images/87b3b5b5c56746df4423b26e6c58b85e.jpg">](https://youtu.be/UjWdFvOW2Lw)
