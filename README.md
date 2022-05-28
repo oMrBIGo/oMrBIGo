@@ -33,17 +33,16 @@
 [<img src="https://play-lh.googleusercontent.com/XaAwRv6Duf9VR8YqaImypQu6SfVi5-HlRxnDGSyvQPzwfm-c-2DGu-iu2nMiOVbuqjY=s180-rw">]()
 #### 1. เกมบำบัดภาวะซึมเศร้า - Depression Therapy Game [Android, Java, Firebase]
 * Play Store -> [เกมบำบัดภาวะซึมเศร้า](https://play.google.com/store/apps/details?id=com.depressiontherapygame)
-* แอปพลิเคชันเกมบำบัดภาวะซึมเศร้าในวัยรุ่น เป็นเพียงทางเลือกหรือช่องทางในการดูแลตนเองอย่างถูกวิธีและเข้าถึงการบำบัดรักษาตามกระบวนการต่อไปได้ ดังนั้นแอปพลิเคชันนี้จึงไม่สามารถช่วยให้หายจากโรคซึมเศร้าได้ 100% ใช้เกมเททริสในการบำบัดภาวะซึมเศร้า จะเป็นเกมที่ต้องแก้ปัญหาจัดเรียงตัวบล็อกที่หล่นจัดเรียงให้เป็นแถวสามารถช่วยบำบัดอาการซึมเศร้าได้ เมื่อเล่นเกมเททริสเสร็จแล้ว สามารถทำแบบประเมินเพื่อดูอาการซึมเศร้าว่าอยู่ระดับไหน และยังสามารถสร้างคำปรึกษา เพื่อปรึกษากับแพทย์หรือผู้ใช้งานด้วยกันได้อีกด้วย
 * โครงงานนี้เป็นส่วนหนึ่งของการศึกษาตามหลักสูตรเทคโนโลยีบัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศและธุรกิจดิจิทัล คณะบริหารธุรกิจ มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ
-
-* Adolescent depression game therapy application using Tetris games to treat depression. It will be a game to solve problems, arrange the falling blocks in a row. It can help treat depression. Once the Tetris game is over, you can take an assessment to see how your symptoms are. and can also create a consultation to consult with a doctor or joint user as well
 * This project is part of the study in the Bachelor of Technology program.
 Information Technology and Digital Business Faculty of Business Administration
 Rajamangala University of Technology Krungthep
 
-[<img src="https://lh6.googleusercontent.com/42bVKJ01S7c1LVHZwX1sNuYNsq5fNENHETNyssEf-7PkdIa3DRPyMCVdyiyvx4BRlJo42pV-cLR_AwL8JgFw=w2560-h1317-rw">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
+* - source code [Private] 
 
-[<img src="https://lh6.googleusercontent.com/p4tcOImlZCt4SEuh4uTt1yfu1b95eiuV-PBerV6YfB0cp57zzcCrIZ3y3dLqaHUqK2BxXLW0_PU0HVMeHW1B=w2560-h1317-rw">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
+[<img src="https://www.img.in.th/images/39a4720320ed1ce452f2fb80a38aa9fd.jpg">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
+
+[<img src="https://www.img.in.th/images/4dcf741ac3236aff9575612f2309cd35.jpg">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
 <br>
 
 ---
