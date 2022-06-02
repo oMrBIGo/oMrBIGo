@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrbigo&label=Profile%20views&color=0e75b6&style=flat" alt="omrbigo" /> </p>
 
-- 🔭 I’m currently working on **Indo App (Android Java)**
+- 🔭 I’m currently working on **Android Kotlin**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin[beginner],Java[experienced]**
 
 - 💬 Ask me about **Android**
 
