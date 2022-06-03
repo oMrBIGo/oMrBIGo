@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=257BF7&center=true&multiline=true&lines=Android+Developer+%3A))](https://git.io/typing-svg)
 <h1 align="center">สวัสดีครับ 👋, ผม นธิตย์ ปานรอด (ชื่อเล่น บิ๊ก)</h1>
 <h3 align="center">เป็นคนที่ชอบและหลงไหลในการพัฒนา Android App และชอบแบ่งปันความรู้ให้กับคนสนใจพัฒนาแอปพลิเคชัน สามารถติดตามได้ที่ https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w </h3>
 
