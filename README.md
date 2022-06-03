@@ -1,8 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=257BF7&center=true&multiline=true&lines=Android+Developer+%3A))](https://git.io/typing-svg)
 <h1 align="center">สวัสดีครับ 👋, ผม นธิตย์ ปานรอด (ชื่อเล่น บิ๊ก)</h1>
 <h3 align="center">เป็นคนที่ชอบและหลงไหลในการพัฒนา Android App และชอบแบ่งปันความรู้ให้กับคนสนใจพัฒนาแอปพลิเคชัน สามารถติดตามได้ที่ https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w </h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrbigo&label=Profile%20views&color=0e75b6&style=flat" alt="omrbigo" /> </p>
