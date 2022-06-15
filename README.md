@@ -33,6 +33,7 @@
 
 [<img src="https://play-lh.googleusercontent.com/XaAwRv6Duf9VR8YqaImypQu6SfVi5-HlRxnDGSyvQPzwfm-c-2DGu-iu2nMiOVbuqjY=s180-rw">]()
 #### 1. เกมบำบัดภาวะซึมเศร้า - Depression Therapy Game [Android, Java, Firebase]
+* Start-Oct 2021 End-June 2022 
 * Play Store -> [เกมบำบัดภาวะซึมเศร้า](https://play.google.com/store/apps/details?id=com.depressiontherapygame)
 * โครงงานนี้เป็นส่วนหนึ่งของการศึกษาตามหลักสูตรเทคโนโลยีบัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศและธุรกิจดิจิทัล คณะบริหารธุรกิจ มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ
 * This project is part of the study in the Bachelor of Technology program.
