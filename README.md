@@ -45,15 +45,9 @@ Rajamangala University of Technology Krungthep
 
 * [NEW!!] Android Studio (Java) - วิธีการสร้างแอปพลิเคชันข่าวไทย News App [Tutorial](https://youtu.be/tifCpoBvffM)
 
----
-
 * Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial](https://youtu.be/UjWdFvOW2Lw)
 
----
-
 * Android Studio [Firebase] - เข้าสู่ระบบด้วย Google (SignInWithGoogle) [XML] - Part 1 [Tutorial](https://youtu.be/n5xjO8VWCGQ)
-
----
 
 * Android Studio [Firebase] - ออกแบบหน้าระบบสมัครสมาชิกและเข้าสู่ระบบ [DESGIN XD] - Part 1 [Tutorial](https://youtu.be/n5xjO8VWCGQ)
 
