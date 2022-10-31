@@ -31,7 +31,6 @@
 
 ## <p align="center">Projects</p>
 
-[<img src="https://play-lh.googleusercontent.com/XaAwRv6Duf9VR8YqaImypQu6SfVi5-HlRxnDGSyvQPzwfm-c-2DGu-iu2nMiOVbuqjY=s180-rw">]()
 #### 1. เกมบำบัดภาวะซึมเศร้า - Depression Therapy Game [Android, Java, Firebase]
 * Start-Oct 2021 End-June 2022 
 * Play Store -> [เกมบำบัดภาวะซึมเศร้า](https://play.google.com/store/apps/details?id=com.depressiontherapygame)
@@ -40,38 +39,23 @@
 Information Technology and Digital Business Faculty of Business Administration
 Rajamangala University of Technology Krungthep
 
-* - source code [Private] 
-
-[<img src="https://www.img.in.th/images/39a4720320ed1ce452f2fb80a38aa9fd.jpg">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
-
-[<img src="https://www.img.in.th/images/4dcf741ac3236aff9575612f2309cd35.jpg">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)
-<br>
-
 ---
 
 ## <p align="center">Tutorial</p>
 
-* [NEW!!] Android Studio (Java) - วิธีการสร้างแอปพลิเคชันข่าวไทย News App [Tutorial]
-
-[<img src="https://www.img.in.th/images/15a5a7504fd5a3795debe0d59a7f47fa.jpg">](https://youtu.be/tifCpoBvffM)
+* [NEW!!] Android Studio (Java) - วิธีการสร้างแอปพลิเคชันข่าวไทย News App [Tutorial](https://youtu.be/tifCpoBvffM)
 
 ---
 
-* Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial]
-
-[<img src="https://www.img.in.th/images/87b3b5b5c56746df4423b26e6c58b85e.jpg">](https://youtu.be/UjWdFvOW2Lw)
+* Android Studio [Firebase] - ออกแบบ UI (Dashboard Admin) [XML] - Part 1 [Tutorial](https://youtu.be/UjWdFvOW2Lw)
 
 ---
 
-* Android Studio [Firebase] - เข้าสู่ระบบด้วย Google (SignInWithGoogle) [XML] - Part 1 [Tutorial] 
-
-[<img src="https://www.img.in.th/images/8cac25cbe7e5fa0fcd8d9d46813c5965.jpg">](https://youtu.be/n5xjO8VWCGQ)
+* Android Studio [Firebase] - เข้าสู่ระบบด้วย Google (SignInWithGoogle) [XML] - Part 1 [Tutorial](https://youtu.be/n5xjO8VWCGQ)
 
 ---
 
-* Android Studio [Firebase] - ออกแบบหน้าระบบสมัครสมาชิกและเข้าสู่ระบบ [DESGIN XD] - Part 1 [Tutorial]
-
-[<img src="https://www.img.in.th/images/4430aecc575b7d927daab46a6c12ec33.jpg">](https://youtu.be/n5xjO8VWCGQ)
+* Android Studio [Firebase] - ออกแบบหน้าระบบสมัครสมาชิกและเข้าสู่ระบบ [DESGIN XD] - Part 1 [Tutorial](https://youtu.be/n5xjO8VWCGQ)
 
 <br>
 
