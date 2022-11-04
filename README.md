@@ -18,7 +18,6 @@
 - 📱 Play Store **https://play.google.com/store/apps/developer?id=Nathit+Panrod**
 
 ### Connect with me:
-<a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://web.facebook.com/nathit.big)</a> 
 <a>[<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.youtube.com/channel/UCoMm_ewHIo03L4M8VXZlr3w)</a>
 <a>[<img src="https://img.shields.io/badge/facebook-fanpage-%231877F2.svg?&style=for-the-badge&logo=facebook fanpage&logoColor=white">](https://web.facebook.com/NathitChannel)</a> 
 
